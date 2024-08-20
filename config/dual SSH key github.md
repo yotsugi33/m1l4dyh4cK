@@ -89,3 +89,16 @@ git config user.email "your_email@example.com"
 ```
 
 By following these steps, you can seamlessly manage multiple GitHub accounts on a single machine without conflicts. This setup allows you to work on projects for both accounts without needing to switch configurations manually each time you push or pull changes.
+
+## Step 7: Testing
+
+```bash
+ssh -T git@github.com-account1
+```
+
+```bash
+ssh -T git@github.com-account2
+```
+
+You should see a message indicating which account you are authenticated as. If it’s not the expected account, check your SSH keys and configuration.
+
