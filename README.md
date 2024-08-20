@@ -70,4 +70,6 @@ text
 - Replace `yourusername` in the installation section with your actual GitHub username.
 - Customize the features, usage examples, and any other sections as needed to fit your library's specifics. (≧▽≦)
 
-by angel_arrays 
+## Author
+
+written by angel_arrays 
