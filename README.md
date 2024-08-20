@@ -26,6 +26,9 @@ git clone https://github.com/yourusername/my-c-lib.git
 cd my-c-lib
 make  # or cmake .
 ```
+### Notes:
+- Replace `yourusername` in the installation section with your actual GitHub username.
+- Customize the features, usage examples, and any other sections as needed to fit your library's specifics. (≧▽≦)
 
 ## Usage 📚
 Include the library in your C project:
@@ -64,11 +67,6 @@ Contributions are welcome! If you have ideas for improvements or new features, p
 This project is licensed under the MIT License. See the LICENSE file for details.
 Thank you for checking out My Web3 C Library! If you have any questions or feedback, feel free to reach out! (｡♥‿♥｡)
 Happy coding! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-text
-
-### Notes:
-- Replace `yourusername` in the installation section with your actual GitHub username.
-- Customize the features, usage examples, and any other sections as needed to fit your library's specifics. (≧▽≦)
 
 ## Author
 
