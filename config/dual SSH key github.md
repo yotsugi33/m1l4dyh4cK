@@ -40,12 +40,16 @@ To set up two SSH keys for two different GitHub accounts on one machine, follow 
    Host github.com-account1
        HostName github.com
        User git
+	   AddKeysToAgent yes
+	   UseKeychain yes
        IdentityFile ~/.ssh/id_rsa_account1
 
    # Second GitHub account
    Host github.com-account2
        HostName github.com
        User git
+	   AddKeysToAgent yes
+	   UseKeychain yes
        IdentityFile ~/.ssh/id_rsa_account2
    ```
 
