@@ -312,4 +312,75 @@ Nevertheless, subconscious thoughts influence what we do. Studies have shown, am
 
 Part of Libet's experiments showed that the difference between conscious and unconscious experiences could depend on the duration of brain activity. In these experiments, subjects were given stimuli to the ascending sensory pathway in the thalamus. For example, the subjects saw two lamps, each of which was illuminated alternately for one second. Subjects were asked to say which of the two lamps was lit when the stimulus was administered. If the stimulus lasted for less than half a second, they did not consciously perceive the stimulus. However, even if they did not consciously perceive a stimulus, the subjects were asked to guess which lamp was lit while the stimulus was administered. This showed that even if the subjects were not consciously aware of the stimulus, they guessed correctly much more frequently than at random (50 percent). When the stimulus lasted 150 to 260 milliseconds, the subjects guessed correctly 75 percent of the time. For the test subjects to perceive the stimulus consciously, the stimulus had to last 500 milliseconds.
 
- [Previous](https://academy.hackthebox.com/module/9/section/49)
+# The Will
+
+---
+
+The term will is a concept interpreted differently in many disciplines. In psychology, will is considered a descriptive construct that presupposes a conscious decision to act, and thus, it is primarily associated with rational action.
+
+Will is used in different contexts and has several meanings: the mental act from which an impulse to achieve specific goals emanates and the setting of goals, and the ultimate translation of these personally or collectively made decisions into action, that is, into conscious and deliberate or even planned action.
+
+From a philosophical point of view, will is defined as deciding on a particular type of action based on the motives for acting consciously. So let us say will is the effort to perform a certain action or achieve a specific goal. Therefore, it is most relevant for us to have decided to achieve a goal that we have determined and strive for it.
+
+Before we decide to achieve a specific goal, we must become clear about our desires. In as much detail as possible, we should explain to ourselves what we want and how it must feel to achieve our goal. This process can also be thought of as dreaming, where we imagine a situation we would like to be in. Unfortunately, most people stop dreaming shortly after they start because they do not see a way to get there.
+
+These people overlook the essential component that the path plays absolutely no role in how we reach that goal because, ultimately, our path is only created by the steps we take.
+
+We can look at interviews of the most famous actors, developers, and scientists, and we will see that none of them have planned and foreseen their careers in the way they came about.
+
+Desire is very dependent on the belief in it. When we believe in our abilities, it relieves us of our complexes (at least from some of them), and we get access to chains of associations of our thinking, interrupted by the pressure of our fears. Let us remember and deeply internalize the following sentence:
+
+- `Fear is a state and the product of our imagination of the future and its consequences where the present is suppressed.`
+
+Fear is essential and healthy in life-threatening and health-threatening situations. However, sitting in a chair in front of a computer, afraid of not being up to the tasks we find here, is irrational. After all, we have not yet worked through most of the material, but we are already beginning to program (adjust) ourselves to fail. So let's ask if this fear is real:
+
+- Have we already worked through all the material?
+- Have we already seen what is being taught and how it is being taught?
+- Do we already have to have the skills that are expected of us?
+
+If we answer "no" to these three questions, it should be clear that we are afraid of something without even trying it. This leads to the fact that the fear, in this case, is not real.
+
+It is interesting that, especially in our field of penetration testing, many students react paradoxically. Most of those who feel a particular "fear" during learning are unaware of what they are afraid of. They believe they are afraid of failing and not learning something well enough, but sometimes as soon as they get stuck on a subject that is not easy for them, they give up. Nevertheless, is not that the failure they were afraid of all along and wanted to avoid by all means? Actually, yes. However, these types of students find it easier to give up and fail than to keep learning and improving. Getting better inevitably happens when we keep practicing and trying different approaches.
+
+We must keep a clear goal in mind to prevent this from happening so quickly.
+
+
+# The Goal
+
+---
+
+The term goal refers to a state that lies in the future, generally changed from the present, desirable, that we aspire to fulfill. A goal is thus a defined and desired endpoint of a process. Therefore, it must be possible to determine precisely from the formulation of the goal what the desired state must be for a goal to be considered achieved. There are many different types of goals, such as:
+
+|||
+|---|---|
+|Quantitative goals|Qualitative goals|
+|Complementary goals|Competing goals|
+|Indifferent goals|Main goals|
+|Secondary goals|and many more|
+
+For every single goal, dozens of different formulas and models have been created to achieve them in the "best possible" way. However, finding a suitable model that fits our personal needs, life experiences, and goals is not easy. Each of the models has a different focus, and to find the perfect model for us, we would have to study each and try them out for a more extended time. The biggest problem is that we are forced to abandon one of the models because we do not know if the model will lead us to our goal, and in addition, efficiency conflicts with comfort. If we feel comfortable with this model, it does not mean that it is effective and will lead us to the goal; therefore, we would have to try another model to find out. Without knowing how the rest of the models affect our effectiveness, we would have to try all the others, which can be very time-consuming.
+
+The results of a meta-analysis of over 200 studies with more than 40,000 participants show that over 90 percent of people are significantly more successful in achieving their dreams by `setting challenging and specific goals`.
+
+We cannot emphasize strongly enough the importance of setting a clear goal for ourselves.
+
+What do we want to achieve? Do we want to...:
+
+- Pass an exam?
+- Obtain a certification?
+- Learn and master new skills?
+- Or impress and please others?
+
+As we can certainly already think and imagine, we will take different "paths" depending on the goal we have set for ourselves. There is even a big difference between passing an exam or just getting the certification for it. Many think that the certification proves that the trained skills have been acquired. However, for most, the certification is a formal and official acknowledgment of participation in particular training. For example, if we only want to get the certification or even just the confirmation of having completed something, we will look for the easiest way to get closer to that goal as quickly as possible. Decisions are made to ask someone how certain tasks are solved in order not to have to think about it.
+
+An essential part of this is that by avoiding our own "thinking" (or trying to solve the task on our own), we deprive ourselves of the possibility of creating chains of associations in our brain. These association chains are the links in our brain cells that serve our thinking processes and information links by which we learn to solve problems or situations. Thus, in simple terms, we deprive ourselves of the ability to learn something new and to develop further.
+
+Because the decision of what goal we want to achieve influences how we learn, a task or goal helps us influence how we think.
+
+Another essential aspect that we can look at, which is an excellent example, is how to reach this goal. If we think about it in more detail, none of the current "great" and well-known personalities will be able to say that they knew the path that led them to the goal beforehand. None of these people knew it. What they did know, however, was the goal that they had set for themselves.
+
+Someone who claims that his way is the only right way should stick to that way if it works for themselves. However, claiming that there are no other ways may be true for that person, but it does not mean that others cannot do it. For example, metaphorically speaking, if the person does not know how to use a ladder, they will only get to higher floors with outside help.
+
+No matter what goal we have in mind, we must decide on it.
+
+
