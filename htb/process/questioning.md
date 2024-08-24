@@ -237,3 +237,24 @@ Now the same question arises again.
 
 The different methods offer different ways to access Windows. Because the purpose of the methods, in this case, has not changed. Therefore we call it again: `Remote Access`.
 
+![](https://academy.hackthebox.com/storage/modules/9/Questioning6.png)
+
+Now that we know and understand the relationships between all the individual components, we know exactly what information we are missing and what we should focus on. In this case, we can use `Windows services` to find the unknown remote access methods. Therefore, if we look closely at all possible services that allow remote access, we can probably even find our own ways to use the service for remote access.
+
+The special thing about this model is that it is stackable. For example, if we have identified such Windows services and found unknown methods, the field `Unknown` becomes `Known` and would look like this:
+
+![](https://academy.hackthebox.com/storage/modules/9/Questioning7.png)
+
+## Practice
+
+The model may be unusual at first, and from experience, I can say that many people have difficulties in the beginning to apply this model. You will be using this model subconsciously after practicing five to ten times. You will not have to think about it much, and you will see the difference in a very short time when you have practiced this model. In fact, with these few practice sessions, you will internalize this model so much that you will even begin to use it automatically during conversations. This is the recipe that I have given you, and now you must learn to prepare the dish yourself.
+
+Now take the 3 to 5 questions from the situations we had to write down at the beginning of this section and apply this model. You will be amazed at the conclusions you will come to.
+
+However, this model has one special feature. If applying this model to your question is unsuccessful, you will have to rephrase it and make it more precise. Because this feature of the `ROQ` model will not allow us to ask questions to which there is no clear answer.
+
+Now, let us settle one last question.
+
+- So, what is the right question?
+
+`A right question is a precise question that allows us to establish the relationships between the components, to understand them, and to take us one step further to the required answer.`
