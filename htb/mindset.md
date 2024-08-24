@@ -68,4 +68,95 @@ So, why didn't we think like that? During this learning path, we will acquire mo
 
 Why didn't you consider changing the arithmetic operations? Why didn't you think to add more digits? Try to answer as detailed as possible on your own. Try to write about it in at least 200 words.
 
+# # Occam's Razor 
+
+**Thinking Outside the Box**  
+Thinking creatively allows us to explore new possibilities and solutions that we might not see at first. However, this can lead to complicated paths when solving problems. To simplify our approach, we can use **Occam's Razor**.
+
+## What is Occam's Razor?
+
+**Definition**  
+Occam's Razor states that when faced with multiple explanations for the same situation, the simplest one is usually the best.**Example**  
+Imagine your computer won’t turn on. There could be many reasons:
+
+- Faulty power supply
+- CPU issues
+- Broken motherboard
+
+Instead of immediately taking the computer apart, we should first ask: **Why is my computer not getting power?**This question leads us to consider simpler possibilities, like checking if the power supply is plugged in or if the outlet is working.
+
+## Real-World Example
+
+**Step-by-Step Approach**
+
+1. **Check the Outlet**: Ensure the outlet is functioning.
+2. **Inspect the Power Supply**: If the outlet works, check the power supply.
+3. **Examine Other Components**: If both are fine, then look at the motherboard or CPU.
+
+By starting with the simplest explanation (the outlet), we might find the issue quickly without unnecessary effort.
+
+## Applying Occam's Razor in Programming
+
+### Example in C
+
+Here’s a simple C program that checks if a computer is getting power:
+
+```c
+#include <stdio.h>
+
+int checkPowerSupply(int isPluggedIn, int isWorkingOutlet) {
+    if (isPluggedIn && isWorkingOutlet) {
+        return 1; // Power is available
+    }
+    return 0; // No power
+}
+
+int main() {
+    int isPluggedIn = 1; // 1 means plugged in, 0 means not
+    int isWorkingOutlet = 0; // 1 means working, 0 means not
+
+    if (checkPowerSupply(isPluggedIn, isWorkingOutlet)) {
+        printf("The computer has power.\n");
+    } else {
+        printf("Check the power supply or outlet.\n");
+    }
+
+    return 0;
+}
+```
+
+---
+
+## Occam's Razor in Practice
+
+Using Occam's Razor in theory sounds easier than it is in practice. We can state that the simplest explanation is the most probable. However, the fact is that apart from that, it is not always so. We must also distinguish between the individual details and mechanisms and the general picture or concept. In our learning phase (and thus also during our penetration tests against companies), we will encounter many situations in which we learn something new. However, it is crucial to understand the overall concept rather than the individual steps involved. For example, once we are familiar with SQL injection and how it occurs, we may find the individual steps difficult at first. However, once we understand the overall concept, it will be easy for us to discover when a web application is vulnerable to SQL injections.
+
+If we have already dealt with SQL injections and know how they can look, we also understand that the individual steps to detect and exploit them can be very complicated. Nevertheless, what remains the same is the concept. The concept is the main focus when learning new topics.
+
+Another example is the approach to penetration testing, which is very common throughout the cybersecurity community. Everyone discusses the cases that can occur and how best to approach them. Let us think back to Occam's Razor principle and think outside the box.
+
+`The simplest explanation for the best approach to penetration testing is that we work with the information we can get.`
+
+## Learning from Complexity
+
+When learning new concepts, like **SQL injection**, focus on understanding the overall idea rather than just memorizing steps. Once you grasp the concept, recognizing vulnerabilities becomes easier.
+
+## Example of Penetration Testing
+
+In penetration testing, each test is unique due to different configurations. Here’s a simple approach:
+
+1. **Gather Information**: Collect data about the system.
+2. **Identify Vulnerabilities**: Use your knowledge to spot weaknesses.
+3. **Test the System**: Apply techniques to see if vulnerabilities exist.
+
+By focusing on the overall concept of penetration testing rather than just individual steps, you can adapt to various situations more effectively.
+
+## Conclusion
+
+Occam's Razor teaches us to seek the simplest explanation first. Whether troubleshooting a computer or learning new programming concepts, focusing on the big picture helps us solve problems efficiently. Remember, once you understand the solution, the steps often seem straightforward in hindsight!
+
+
+# Exercise
+
+Write down the goal you want to achieve with this course as precisely as possible. Try to break it down and describe it in 500 words at most.
 
