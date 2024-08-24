@@ -1,3 +1,4 @@
+# way of thinking
 The field of information security is massive. It would be impossible for any one person to learn everything. Let us take the following example:
 
 ```
@@ -66,3 +67,5 @@ So, why didn't we think like that? During this learning path, we will acquire mo
 
 
 Why didn't you consider changing the arithmetic operations? Why didn't you think to add more digits? Try to answer as detailed as possible on your own. Try to write about it in at least 200 words.
+
+
