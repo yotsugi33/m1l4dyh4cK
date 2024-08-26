@@ -1,0 +1,9 @@
+in that case CS106, CS107, CS110, CS143, CS 161 and CS162 sequence from Stanford(or its equivalent from Berkeley/MIT/CMU/UW) knows more than enough to be an SWE.
+
+nand2tetris.org
+
+beej.us/guide/bgc/
+
+cs.sfu.ca/~ashriram/Cour…
+
+opendsa.cs.vt.edu/ODSA/Books/PL/…
